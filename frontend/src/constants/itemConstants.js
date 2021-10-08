@@ -1,0 +1,9 @@
+// item list
+export const ITEM_LIST_REQUEST = "ITEM_LIST_REQUEST";
+export const ITEM_LIST_SUCCESS = "ITEM_LIST_SUCCESS";
+export const ITEM_LIST_FAIL = "ITEM_LIST_FAIL";
+
+// item detail
+export const ITEM_DETAIL_REQUEST = "ITEM_DETAIL_REQUEST";
+export const ITEM_DETAIL_SUCCESS = "ITEM_DETAIL_SUCCESS";
+export const ITEM_DETAIL_FAIL = "ITEM_DETAIL_FAIL";

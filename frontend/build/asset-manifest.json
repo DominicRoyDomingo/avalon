@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87e77085.chunk.css",
+    "main.js": "/static/js/main.c9f3fc74.chunk.js",
+    "main.js.map": "/static/js/main.c9f3fc74.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dd1b82c1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dd1b82c1.js.map",
+    "static/js/2.a1a97a89.chunk.js": "/static/js/2.a1a97a89.chunk.js",
+    "static/js/2.a1a97a89.chunk.js.map": "/static/js/2.a1a97a89.chunk.js.map",
+    "static/js/3.da890371.chunk.js": "/static/js/3.da890371.chunk.js",
+    "static/js/3.da890371.chunk.js.map": "/static/js/3.da890371.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.87e77085.chunk.css.map": "/static/css/main.87e77085.chunk.css.map",
+    "static/js/2.a1a97a89.chunk.js.LICENSE.txt": "/static/js/2.a1a97a89.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/NovaSlim-Regular.d10329d7.woff2",
+    "static/media/heels.2db8094f.jpg": "/static/media/heels.2db8094f.jpg",
+    "static/media/leather.871a96cc.jpg": "/static/media/leather.871a96cc.jpg",
+    "static/media/shirts.58b93615.jpg": "/static/media/shirts.58b93615.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd1b82c1.js",
+    "static/js/2.a1a97a89.chunk.js",
+    "static/css/main.87e77085.chunk.css",
+    "static/js/main.c9f3fc74.chunk.js"
+  ]
+}
